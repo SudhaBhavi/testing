@@ -1,0 +1,11 @@
+c:\users\meghna\source\repos\sampleApp\sampleApp\bin\Debug\netcoreapp2.0\sampleApp.deps.json
+c:\users\meghna\source\repos\sampleApp\sampleApp\bin\Debug\netcoreapp2.0\sampleApp.runtimeconfig.json
+c:\users\meghna\source\repos\sampleApp\sampleApp\bin\Debug\netcoreapp2.0\sampleApp.runtimeconfig.dev.json
+c:\users\meghna\source\repos\sampleApp\sampleApp\bin\Debug\netcoreapp2.0\sampleApp.dll
+c:\users\meghna\source\repos\sampleApp\sampleApp\bin\Debug\netcoreapp2.0\sampleApp.pdb
+c:\users\meghna\source\repos\sampleApp\sampleApp\obj\Debug\netcoreapp2.0\sampleApp.csprojResolveAssemblyReference.cache
+c:\users\meghna\source\repos\sampleApp\sampleApp\obj\Debug\netcoreapp2.0\sampleApp.csproj.CoreCompileInputs.cache
+c:\users\meghna\source\repos\sampleApp\sampleApp\obj\Debug\netcoreapp2.0\sampleApp.AssemblyInfoInputs.cache
+c:\users\meghna\source\repos\sampleApp\sampleApp\obj\Debug\netcoreapp2.0\sampleApp.AssemblyInfo.cs
+c:\users\meghna\source\repos\sampleApp\sampleApp\obj\Debug\netcoreapp2.0\sampleApp.dll
+c:\users\meghna\source\repos\sampleApp\sampleApp\obj\Debug\netcoreapp2.0\sampleApp.pdb
